@@ -42,4 +42,5 @@ Video Game Sales Analytics Dashboard
 
 
 5.Screenshots/Demo:
- - D1-(
+ - D1-(https://github.com/raaj-ravadka45/Video-Games-Sales/blob/main/Video%20Game%20Sales%20Dashboard.png)
+ - D2-(
