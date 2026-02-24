@@ -2,11 +2,11 @@
 Video Game Sales Analytics Dashboard
 
 
-1. Short Description / Purpose:
+1.Short Description / Purpose:
 - An interactive sales analytics dashboard developed to analyze global video game sales performance across platforms, genres, publishers, and regions. The dashboard helps identify top-performing segments and sales  trends to support data-driven business decisions.
 
 
-2. Tech Stack:
+2.Tech Stack:
 - Power BI (Dashboard Development & Data Visualization)
 - DAX (Calculated Measures & KPIs)
 - Excel / CSV (Data Handling & Transformation)
