@@ -45,4 +45,4 @@ Video Game Sales Analytics Dashboard
  - D1-(https://github.com/raaj-ravadka45/Video-Games-Sales/blob/main/Video%20Game%20Sales%20Dashboard.png)
  - D2-(https://github.com/raaj-ravadka45/Video-Games-Sales/blob/main/Platform%20Analysis.png)
  - D3-(https://github.com/raaj-ravadka45/Video-Games-Sales/blob/main/Genre%20Analysis.png)
- - D4-(
+ - D4-(https://github.com/raaj-ravadka45/Video-Games-Sales/blob/main/Publisher%20Analysis.png)
